@@ -1,0 +1,15 @@
+{
+  "dart.flutterSdkPath": ".fvm/flutter_sdk",
+  "editor.formatOnSave": true,
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  /** streetsidesoftware.code-spell-checker */
+  "cSpell.words": ["chronotype"]
+}

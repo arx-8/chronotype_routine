@@ -1,0 +1,24 @@
+// This file not working for workspace
+// Copy to your own keybindings.json
+[
+  {
+    "key": "shift+enter",
+    "command": "colonize.newline",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+enter",
+    "command": "-colonize.newline",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+enter",
+    "command": "-colonize.endline",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+enter",
+    "command": "-colonize.hold",
+    "when": "editorTextFocus"
+  }
+]
