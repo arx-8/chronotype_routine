@@ -1,3 +1,7 @@
+# Text
+
+- [スマホで動くアプリを作ろう！ゼロから始める Flutter 実践入門編 ①: シンプルなアプリを作ってみよう](https://www.amazon.co.jp/dp/B09VKXCFCN)
+
 # chronotype_routine
 
 A new Flutter project.
